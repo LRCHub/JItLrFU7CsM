@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "From Yesterday",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:40:25.329729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreams from Yesterday",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/01_Dreams_from_Yesterday_Mac_DeMarco.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Kids from Yesterday",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/02_The_Kids_from_Yesterday_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Kids From Yesterday - Dan P. Carter Mix",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/03_The_Kids_From_Yesterday_-_Dan_P._Carter_Mix_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Kids from Yesterday (Dan P. Carter Mix)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/04_The_Kids_from_Yesterday_(Dan_P._Carter_Mix)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Kids from Yesterday (Dan P. Carter Remix)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/05_The_Kids_from_Yesterday_(Dan_P._Carter_Remix)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Kids from Yesterday (Live)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/06_The_Kids_from_Yesterday_(Live)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Girl from Yesterday",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/07_The_Girl_from_Yesterday_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From Yesterday",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/08_From_Yesterday_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From Yesterday",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/09_From_Yesterday_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Kids from Yesterday",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/10_The_Kids_from_Yesterday_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From Yesterday (Radio Edit)",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/11_From_Yesterday_(Radio_Edit)_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From Yesterday (radio edit)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/12_From_Yesterday_(radio_edit)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Kids from Yesterday",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/13_The_Kids_from_Yesterday_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Million Miles from Yesterday",
+      "artist": "Gov't Mule",
+      "has_synced": true,
+      "path": "select/14_Million_Miles_from_Yesterday_Gov't_Mule.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From Yesterday",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_From_Yesterday_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
